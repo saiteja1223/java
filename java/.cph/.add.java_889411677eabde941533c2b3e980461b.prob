@@ -1,0 +1,1 @@
+{"name":"Local: add","url":"c:\\Users\\saiteja\\Desktop\\java\\add.java","tests":[{"id":1657029112305,"input":"654","output":"456"},{"id":1657072806443,"input":"345","output":"543"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\saiteja\\Desktop\\java\\add.java","group":"local","local":true}

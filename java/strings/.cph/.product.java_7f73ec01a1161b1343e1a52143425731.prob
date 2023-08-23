@@ -1,0 +1,1 @@
+{"name":"Local: product","url":"c:\\Users\\saiteja\\Desktop\\java\\strings\\product.java","tests":[{"id":1657856434112,"input":"5 \n1 2 3 4 5\n3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\saiteja\\Desktop\\java\\strings\\product.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: hsum","url":"c:\\Users\\sadodda\\OneDrive - Hitachi Vantara\\Desktop\\phone\\java\\hsum.java","tests":[{"id":1674474671564,"input":"7\n2 3 4 5 6 2 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sadodda\\OneDrive - Hitachi Vantara\\Desktop\\phone\\java\\hsum.java","group":"local","local":true}
